@@ -13,7 +13,7 @@
 **If you want a ranking on those, pease refer to the original SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
 ### • A+ Tier 
-Adata XPG - Core Reactor (All), Cybercore (All)
+Adata XPG - Core Reactor (All), Cybercore (All), Fusion
 
 Asrock - Taichi
 
@@ -79,6 +79,8 @@ Cooler Master - G Bronze 2020, G Gold (all), GXII, GXIII, Masterwatt Maker, MWE 
 
 Corsair - RM-e (all), RM (all)
 
+Cougar - GEX X2, LLC
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -102,6 +104,8 @@ Chieftec - PowerUp 550/650w
 Cooler Master - G Gold V2, MWE Gold/Gold Modular
 
 Corsair - CX 2016, CX-F RGB, TX (Black Label), Vengeance Silver
+
+Cougar - GEX
 
 ### • B- Tier 
 
@@ -143,6 +147,8 @@ Cooler Master - GX CM Storm Edition, MWE Bronze 650/650w Full Range/230v
 
 Corsair - CV (Black Label) 650/750w, CX 2023, Vengeance Bronze
 
+Cougar - BXM, GX-S, LX, VTE X2 ver.2
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -156,3 +162,5 @@ AZZA - PSAZ ARGB Bronze (2024/New)
 Be Quiet! - System Power 9/9 CM/B9
 
 Corsair - CX-m 2013 750/850w, CX 2013 750w
+
+Cougar - Atlas 2023, VTE, VTE X2
