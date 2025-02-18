@@ -10,8 +10,6 @@
    
    **• Any PSU that is not ATX**
 
-   **• And any PSU that is not on the SPL tier list**
-   
 **If you want a ranking on those, pease refer to the original SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
 ### • A+ Tier 
