@@ -1,4 +1,3 @@
-# CompactedSPL - Compilatilation of SPL's PSU tier list
 
 ## By Flow (itsflow_._)
 
