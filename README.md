@@ -1,4 +1,3 @@
-
 ### By Flow (itsflow_._)
 #### Revision 1.0 (SPL 1.0)
 
@@ -70,6 +69,8 @@ Deepcool - Gamer Storm DQ-M, PQ-G 1000/1200w
 
 Enermax - MaxTytan, Revolution D.F. 12, Revolution D.F. 650w
 
+EVGA - G2, G2L, G6 650/750w, P2, P6 650/750w
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
@@ -91,6 +92,8 @@ Cooler Master - G Bronze 2020, G Gold (all), GXII, GXIII, Masterwatt Maker, MWE 
 Corsair - RM-e (all), RM (all)
 
 Cougar - GEX X2, LLC
+
+EVGA - G3
 
 ### • B Tier
 
@@ -121,6 +124,8 @@ Cougar - GEX
 Darkflash - Upmost
 
 Deepcool - Gamer Storm DQ-M V2L 650/750w, PN-M
+
+EVGA - GE, GD R3/BC, FTW, G5, P+, P5
 
 ### • B- Tier 
 
