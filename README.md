@@ -195,3 +195,10 @@ Deepcool - PL-D
 Endorphy - Supremo Gold FM5
 
 Enermax - MarbleBron, RebleBron (all)
+
+### •T Tier
+
+Thermaltake, fuck them
+
+### •Z Tier
+ZTT, fuck them as well
