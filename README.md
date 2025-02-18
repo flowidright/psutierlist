@@ -17,7 +17,9 @@ Adata XPG - Core Reactor (All), Cybercore (All)
 
 Asrock - Taichi
 
-ASUS ROG - 
+Be Quiet! + Dark Power Pro (All)
+
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -25,6 +27,10 @@ Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
 Asrock - Phantom Gaming
 
 ASUS ROG - THOR Platnium II, THOR Platinum 850w, Strix Platnium 1000w
+
+Be Quiet! - Dark Power (All), Pure Power 11 FM 850/1000w, 12 M
+
+Bitfenix - BFG Gold ATX 3.0 1000/1200w, Formula Gold, Wisper M
 
 ### • A- Tier
 
