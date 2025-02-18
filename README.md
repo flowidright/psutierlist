@@ -182,3 +182,5 @@ Corsair - CX-m 2013 750/850w, CX 2013 750w
 Cougar - Atlas 2023, VTE, VTE X2
 
 Deepcool - PL-D
+
+Endorphy - Supremo Gold FM5
