@@ -19,6 +19,9 @@ Asrock - Taichi
 
 Be Quiet! + Dark Power Pro (All)
 
+Cheiftec - PowerPlay
+
+Cooler Master - V-Series Gold i multi/Gold V2, X Silent (all), XG (all)
 
 ### • A Tier
 
@@ -32,6 +35,8 @@ Be Quiet! - Dark Power (All), Pure Power 11 FM 850/1000w, 12 M
 
 Bitfenix - BFG Gold ATX 3.0 1000/1200w, Formula Gold, Wisper M
 
+Cooler Master - M2000 Platnium, Masterwatt Maker MIJ, V-Series Platinum
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -42,6 +47,10 @@ Antec - Earthwatts Pro/Pro White, Signature Platinum/Titanium
 
 ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
 
+Cheiftec - Atmos
+
+Cooler Master - V-Series Platnium V2
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
@@ -51,6 +60,10 @@ Asrock - Steel Legend
 Asus - Prime
 
 Asus ROG - Strix Platinum 1200w
+
+Be Quiet! - Power Zone 2, Pure Power 11 FM 450~750
+
+Bitfenix - BFG Gold ATX 3.0 750/850w
 
 ### • B Tier
 
@@ -65,6 +78,10 @@ Antec - Neo Eco Gold Modular, GSK ATX 3.1
 Asus - TUF Gold/Bronze
 
 AZZA - PSAZ Platnium ATX 3.1/Gold ATX 3.1
+
+Be Quiet! - Pure Power 11 400~700w, Pure Power 11 CM, System Power 10 Gold
+
+Bitfenix - BFG Gold
 
 ### • B- Tier 
 
