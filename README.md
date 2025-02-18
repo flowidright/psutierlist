@@ -41,6 +41,8 @@ Cooler Master - M2000 Platnium, Masterwatt Maker MIJ, V-Series Platinum
 
 Corsair - HX-i 2013, TX-m (all)
 
+Cougar GX-F, Polar (all)
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -54,6 +56,8 @@ ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
 Chieftec - Atmos
 
 Cooler Master - V-Series Platnium V2
+
+Cougar - GX-F Aurum
 
 ### • B+ Tier
 
