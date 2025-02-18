@@ -25,6 +25,8 @@ Cooler Master - V-Series Gold i multi/Gold V2, X Silent (all), XG (all)
 
 Corsair - AX.(Grey Label), AX-i.(Grey Label), HX (all), HX-i 2023/2022, RM-i.(all), RM-x (all)
 
+Deepcool - PXG
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -43,6 +45,8 @@ Corsair - HX-i 2013, TX-m (all)
 
 Cougar GX-F, Polar (all)
 
+Deepcool - PQ-M, PXP
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -58,6 +62,8 @@ Chieftec - Atmos
 Cooler Master - V-Series Platnium V2
 
 Cougar - GX-F Aurum
+
+Deepcool - Gamer Storm DQ-M, PQ-G 1000/1200w
 
 ### • B+ Tier
 
@@ -107,6 +113,10 @@ Corsair - CX 2016, CX-F RGB, TX (Black Label), Vengeance Silver
 
 Cougar - GEX
 
+Darkflash - Upmost
+
+Deepcool - Gamer Storm DQ-M V2L 650/750w, PN-M
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -119,6 +129,8 @@ Cooler Master - G Gold
 
 Corsair - CS (Black label)
 
+Deepcool - Gamer Storm DQ-M 850w, PN-D, PN-M
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -128,6 +140,8 @@ Andyson - GX/H6
 AZZA - PSAZ Gold Atx 3.0/Gold
 
 Corsair - CX-m 2017/2021
+
+Deepcool - PQ-G 750/850w
 
 ### • C Tier
 
@@ -149,6 +163,8 @@ Corsair - CV (Black Label) 650/750w, CX 2023, Vengeance Bronze
 
 Cougar - BXM, GX-S, LX, VTE X2 ver.2
 
+Darkflash - GS Bronze 
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -164,3 +180,5 @@ Be Quiet! - System Power 9/9 CM/B9
 Corsair - CX-m 2013 750/850w, CX 2013 750w
 
 Cougar - Atlas 2023, VTE, VTE X2
+
+Deepcool - PL-D
