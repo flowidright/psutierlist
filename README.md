@@ -146,6 +146,8 @@ Corsair - CX-m 2017/2021
 
 Deepcool - PQ-G 750/850w
 
+Enermax - Platimax D.F. 2013, Revolution X'T II
+
 ### • C Tier
 
 Abko - Coremax Bronze, Tenergy Bronze, Settler (all)
@@ -168,6 +170,8 @@ Cougar - BXM, GX-S, LX, VTE X2 ver.2
 
 Darkflash - GS Bronze 
 
+Enermax - Revolution Duo
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -187,3 +191,5 @@ Cougar - Atlas 2023, VTE, VTE X2
 Deepcool - PL-D
 
 Endorphy - Supremo Gold FM5
+
+Enermax - MarbleBron, RebleBron (all)
