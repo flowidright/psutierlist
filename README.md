@@ -8,21 +8,44 @@
 
    **• Any speculative units**
    
-   **• Any PSU released more than 6 years ago**
+   **• Any PSU that is not ATX**
 
    **• And any PSU that is not on the SPL tier list**
    
 **If you want a ranking on those, pease refer to the original SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
+### • A+ Tier 
+ADATA XPG - Core Reactor (All), Cybercore (All)
 
-## • A Tier
+Asrock - Taichi
 
-### • Low Priority
+ASUS ROG - 
+### • A Tier
 
-## • B Tier
+Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
 
-### • Low Priority 
+Asrock - Phantom Gaming
 
-## • C Tier
+ASUS ROG - THOR Platnium II, THOR Platinum 850w, Strix Platnium 1000w
 
-### • Low Priority
+### • A- Tier
+
+1stPlayer - NDGP Gold/Platinum 
+
+Aerocool - Project 7
+
+Antec - Earthwatts Pro/Pro White, Signature Platinum/Titanium
+
+ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
+
+### • B+ Tier
+
+### • B Tier
+
+### • B- Tier 
+
+### • C+ Tier 
+
+### • C Tier
+
+### • C- Tier
