@@ -28,6 +28,8 @@ Deepcool - PXG
 
 EVGA - G6 850/1000w, G7, P6 850/1000w, T2
 
+FSP - Hydro PTM Pro ATX 3.0/3.1, PTM X Pro (all), Ti Pro
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -49,6 +51,11 @@ Cougar GX-F, Polar (all)
 Deepcool - PQ-M, PXP
 
 Enermax - PlatiGemeni, Revolution ATX 3.0, Revolution D.F. 750/850w
+
+Fractal - Ion Platinum (all)
+
+FSP - Hydro G Pro 850/1000, G Pro ATX 3.0, GT Pro (all)
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -70,6 +77,10 @@ Deepcool - Gamer Storm DQ-M, PQ-G 1000/1200w
 Enermax - MaxTytan, Revolution D.F. 12, Revolution D.F. 650w
 
 EVGA - G2, G2L, G6 650/750w, P2, P6 650/750w
+
+Fractal - Ion Gold
+
+FSP - Hydro G Pro 650/750w, Hydro PTM, Hydro PTM Pro ATX 2.x
 
 ### • B+ Tier
 
@@ -94,6 +105,8 @@ Corsair - RM-e (all), RM (all)
 Cougar - GEX X2, LLC
 
 EVGA - G3
+
+FSP - Aurum Platnium, Vita GM
 
 ### • B Tier
 
@@ -127,6 +140,8 @@ Deepcool - Gamer Storm DQ-M V2L 650/750w, PN-M
 
 EVGA - GE, GD R3/BC, FTW, G5, P+, P5
 
+FSP - Hydro G, Hydro X
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -140,6 +155,10 @@ Cooler Master - G Gold
 Corsair - CS (Black label)
 
 Deepcool - Gamer Storm DQ-M 850w, PN-D, PN-M
+
+EVGA - G+ 650/750w, GT
+
+FSP - Dagger
 
 ### • C+ Tier 
 
@@ -179,6 +198,12 @@ Darkflash - GS Bronze
 
 Enermax - Revolution Duo
 
+EVGA - B2, BP, BQ 500~700w
+
+Fractal - Anode Bronze
+
+FSP - Hydro GD, GE, M (Modular) Pro, MX, Pro, Hydro M85+
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -200,6 +225,10 @@ Deepcool - PL-D
 Endorphy - Supremo Gold FM5
 
 Enermax - MarbleBron, RebleBron (all)
+
+EVGA - B3, BR
+
+FSP - Raider II
 
 ### •T Tier
 
