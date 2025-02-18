@@ -27,6 +27,8 @@ Corsair - AX.(Grey Label), AX-i.(Grey Label), HX (all), HX-i 2023/2022, RM-i.(al
 
 Deepcool - PXG
 
+EVGA - G6 850/1000w, G7, P6 850/1000w, T2
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
