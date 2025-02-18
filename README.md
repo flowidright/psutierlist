@@ -19,7 +19,7 @@ Asrock - Taichi
 
 Be Quiet! + Dark Power Pro (All)
 
-Cheiftec - PowerPlay
+Chieftec - PowerPlay
 
 Cooler Master - V-Series Gold i multi/Gold V2, X Silent (all), XG (all)
 
@@ -47,7 +47,7 @@ Antec - Earthwatts Pro/Pro White, Signature Platinum/Titanium
 
 ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
 
-Cheiftec - Atmos
+Chieftec - Atmos
 
 Cooler Master - V-Series Platnium V2
 
@@ -64,6 +64,10 @@ Asus ROG - Strix Platinum 1200w
 Be Quiet! - Power Zone 2, Pure Power 11 FM 450~750
 
 Bitfenix - BFG Gold ATX 3.0 750/850w
+
+Chieftec - Vega PPG-S
+
+Cooler Master - **To be added**
 
 ### • B Tier
 
@@ -83,11 +87,19 @@ Be Quiet! - Pure Power 11 400~700w, Pure Power 11 CM, System Power 10 Gold
 
 Bitfenix - BFG Gold
 
+Chieftec - PowerUp 550/650w
+
+Cooler Master - G Gold V2, MWE Gold/Gold Modular
+
 ### • B- Tier 
 
 Adata XPG - Kyber
 
 Aerocool - Intergrator Gold
+
+Chieftec - Polaris (all), PowerUp 750/850w
+
+Cooler Master - G Gold
 
 ### • C+ Tier 
 
