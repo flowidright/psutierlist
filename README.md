@@ -68,6 +68,30 @@ Aerocool - Intergrator Gold
 
 ### • C+ Tier 
 
+Adata XPG - Pylon
+
+Andyson - GX/H6
+
+AZZA - PSAZ Gold Atx 3.0/Gold
+
 ### • C Tier
 
+Abko - Coremax Bronze, Tenergy Bronze, Settler (all)
+
+Aerocool - KCAS Bronze Modular 1200w/Plus Bronze/Gold/Plus Gold
+
+Andyson - BX, M5+ 550/650w
+
+Antec - Neo Eco Gold Zen
+
+Apevia - Prestige
+
 ### • C- Tier
+
+1st Player - DK Premium
+
+Aerocool - Aero Bronze
+
+Antec - Cuprum Strike Pro ATX 3.1, VPF 650
+
+AZZA - PSAZ ARGB Bronze (2024/New)
