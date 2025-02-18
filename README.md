@@ -67,7 +67,7 @@ Bitfenix - BFG Gold ATX 3.0 750/850w
 
 Chieftec - Vega PPG-S
 
-Cooler Master - G Bronze 2020, G Gold (all), GXII, GXIII, Masterwatt Maker, MWE Gold/Gold Modular, MWE White V2 Full Range, MWE Bronze V2 Full Range, MWE V2 Gold (all), MWE Bronze V3 Full Range, MWE V3 Gold (all)
+Cooler Master - G Bronze 2020, G Gold (all), GXII, GXIII, Masterwatt Maker, MWE Gold/Gold Modular, MWE White V2 Full Range, MWE Bronze V2 Full Range, MWE V2 Gold (all), MWE Bronze V3 Full Range, MWE V3 Gold Modular, Reactor Gold, V-Series Gold V1 (all)
 
 ### • B Tier
 
