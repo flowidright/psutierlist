@@ -109,6 +109,7 @@ Antec - Neo Eco Gold Zen
 
 Apevia - Prestige
 
+Be Quiet! - System Power U9
 ### • C- Tier
 
 1st Player - DK Premium
@@ -118,3 +119,5 @@ Aerocool - Aero Bronze
 Antec - Cuprum Strike Pro ATX 3.1, VPF 650
 
 AZZA - PSAZ ARGB Bronze (2024/New)
+
+Be Quiet! - System Power 9/9 CM/B9
