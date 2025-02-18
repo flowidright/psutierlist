@@ -47,6 +47,7 @@ Cougar GX-F, Polar (all)
 
 Deepcool - PQ-M, PXP
 
+Enermax - PlatiGemeni, Revolution ATX 3.0, Revolution D.F. 750/850w
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -64,6 +65,8 @@ Cooler Master - V-Series Platnium V2
 Cougar - GX-F Aurum
 
 Deepcool - Gamer Storm DQ-M, PQ-G 1000/1200w
+
+Enermax - MaxTytan, Revolution D.F. 12, Revolution D.F. 650w
 
 ### • B+ Tier
 
