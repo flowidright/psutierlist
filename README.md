@@ -17,11 +17,13 @@ Adata XPG - Core Reactor (All), Cybercore (All)
 
 Asrock - Taichi
 
-Be Quiet! + Dark Power Pro (All)
+Be Quiet! - Dark Power Pro (All)
 
 Chieftec - PowerPlay
 
 Cooler Master - V-Series Gold i multi/Gold V2, X Silent (all), XG (all)
+
+Corsair - AX.(Grey Label), AX-i.(Grey Label), HX (all), HX-i 2023/2022, RM-i.(all), RM-x (all)
 
 ### • A Tier
 
@@ -31,11 +33,13 @@ Asrock - Phantom Gaming
 
 ASUS ROG - THOR Platnium II, THOR Platinum 850w, Strix Platnium 1000w
 
-Be Quiet! - Dark Power (All), Pure Power 11 FM 850/1000w, 12 M
+Be Quiet! - Dark Power (all), Pure Power 11 FM 850/1000w, 12 M
 
 Bitfenix - BFG Gold ATX 3.0 1000/1200w, Formula Gold, Wisper M
 
 Cooler Master - M2000 Platnium, Masterwatt Maker MIJ, V-Series Platinum
+
+Corsair - HX-i 2013, TX-m (all)
 
 ### • A- Tier
 
@@ -69,6 +73,8 @@ Chieftec - Vega PPG-S
 
 Cooler Master - G Bronze 2020, G Gold (all), GXII, GXIII, Masterwatt Maker, MWE Gold/Gold Modular, MWE White V2 Full Range, MWE Bronze V2 Full Range, MWE V2 Gold (all), MWE Bronze V3 Full Range, MWE V3 Gold Modular, Reactor Gold, V-Series Gold V1 (all)
 
+Corsair - RM-e (all), RM (all)
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -91,6 +97,8 @@ Chieftec - PowerUp 550/650w
 
 Cooler Master - G Gold V2, MWE Gold/Gold Modular
 
+Corsair - CX 2016, CX-F RGB, TX (Black Label), Vengeance Silver
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -101,6 +109,8 @@ Chieftec - Polaris (all), PowerUp 750/850w
 
 Cooler Master - G Gold
 
+Corsair - CS (Black label)
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -108,6 +118,8 @@ Adata XPG - Pylon
 Andyson - GX/H6
 
 AZZA - PSAZ Gold Atx 3.0/Gold
+
+Corsair - CX-m 2017/2021
 
 ### • C Tier
 
@@ -122,6 +134,11 @@ Antec - Neo Eco Gold Zen
 Apevia - Prestige
 
 Be Quiet! - System Power U9
+
+Cooler Master - GX CM Storm Edition, MWE Bronze 650/650w Full Range/230v
+
+Corsair - CV (Black Label) 650/750w, CX 2023, Vengeance Bronze
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -133,3 +150,5 @@ Antec - Cuprum Strike Pro ATX 3.1, VPF 650
 AZZA - PSAZ ARGB Bronze (2024/New)
 
 Be Quiet! - System Power 9/9 CM/B9
+
+Corsair - CX-m 2013 750/850w, CX 2013 750w
