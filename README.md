@@ -13,7 +13,7 @@
 **If you want a ranking on those, pease refer to the original SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
 ### • A+ Tier 
-ADATA XPG - Core Reactor (All), Cybercore (All)
+Adata XPG - Core Reactor (All), Cybercore (All)
 
 Asrock - Taichi
 
@@ -28,7 +28,7 @@ ASUS ROG - THOR Platnium II, THOR Platinum 850w, Strix Platnium 1000w
 
 ### • A- Tier
 
-1stPlayer - NDGP Gold/Platinum 
+1st Player - NDGP Gold/Platinum 
 
 Aerocool - Project 7
 
@@ -38,9 +38,33 @@ ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
 
 ### • B+ Tier
 
+Antec - Neo Eco Gold OEM
+
+Asrock - Steel Legend 
+
+Asus - Prime
+
+Asus ROG - Strix Platinum 1200w
+
 ### • B Tier
 
+1st Player - Armour Gold, Steampunk 
+
+Abko - CR Platnium, Tenergy Gold
+
+Andyson - N, PX, R, TX
+
+Antec - Neo Eco Gold Modular, GSK ATX 3.1
+
+Asus - TUF Gold/Bronze
+
+AZZA - PSAZ Platnium ATX 3.1/Gold ATX 3.1
+
 ### • B- Tier 
+
+Adata XPG - Kyber
+
+Aerocool - Intergrator Gold
 
 ### • C+ Tier 
 
