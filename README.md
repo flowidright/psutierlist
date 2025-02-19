@@ -30,6 +30,8 @@ EVGA - G6 850/1000w, G7, P6 850/1000w, T2
 
 FSP - Hydro PTM Pro ATX 3.0/3.1, PTM X Pro (all), Ti Pro
 
+Montech - Titan Gold
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -94,6 +96,8 @@ FSP - Hydro G Pro 650/750w, Hydro PTM, Hydro PTM Pro ATX 2.x
 
 Kolink - Continuum V1 1500w
 
+Montech - Titan PLA
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
@@ -131,6 +135,8 @@ High Power - OEM Super Gold/ATX 3.1, Performance FS ATX 3.1, Super GD+
 Inwin - PF Gold
 
 Kolink - Continuum V1 850w
+
+Montech - Century G5 ATX 3.0
 
 ### • B Tier
 
@@ -171,6 +177,8 @@ Gamdias - Cyclops X1
 BEAUTIFUL - G-MA
 
 Lian Li - SP 750w
+
+Montech - Century 550/650w
 
 ### • B- Tier 
 
@@ -224,6 +232,8 @@ Inwin - PB Gold, P Gold 1000/1250w
 
 Lian Li - ON 550w
 
+Montech - Century 850w, Gamma (all)
+
 ### • C Tier
 
 Abko - Coremax Bronze, Tenergy Bronze, Settler (all)
@@ -262,6 +272,8 @@ Gigabyte - PB 650w, GH, PB-US
 
 Inwin - A1 Plus, C Platnium, Force F1
 
+Montech - APX
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -289,6 +301,8 @@ EVGA - B3, BR
 FSP - Raider II
 
 Kolink - Classic Power, Continuum V1 1050/1200w
+
+Montech - Alpha X
 
 ### •T Tier
 
