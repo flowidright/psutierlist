@@ -11,6 +11,8 @@
 
 **If you want a ranking on those, pease refer to the original SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
+**Please suggest any changes on GitHub.**
+
 ### • A+ Tier 
 Adata XPG - Core Reactor (All), Cybercore (All), Fusion
 
