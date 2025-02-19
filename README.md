@@ -36,6 +36,8 @@ Montech - Titan Gold
 
 NZXT - C Series Gold ATX 3.0/Gold ATX 3.1/Platinum 
 
+Silverstone - Hela R Platinum 1200w
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -79,6 +81,8 @@ NZXT - C Series V1/V2, E Series
 Phanteks - AMP GH Platinum, AMP V2, AMP V2 White, Revolt Pro
 
 Razer - Katana Chroma
+
+Silverstone - Hela R Platnium 850/1300/2050w, Hela Platnium 2050w, Nightjar ATX Platnium
 
 ### • A- Tier
 
@@ -157,6 +161,8 @@ MSI - A-GL 1000/1250w
 Rosewill - Quark, SMG
 
 SAMA - Black Diamond/V2, XM
+
+Silverstone - DA Gold 1650w, DA-R GM/GMA, ST-PT 550~850w, Viva Gold
 
 ### • B Tier
 
