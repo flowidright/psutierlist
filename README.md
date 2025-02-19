@@ -48,13 +48,13 @@ Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
 
 Asrock - Phantom Gaming
 
-ASUS ROG - THOR Platnium II, THOR Platinum 850w, Strix Platnium 1000w
+ASUS ROG - THOR Platinum II, THOR Platinum 850w, Strix Platnium 1000w
 
 Be Quiet! - Dark Power (all), Pure Power 11 FM 850/1000w, 12 M
 
 Bitfenix - BFG Gold ATX 3.0 1000/1200w, Formula Gold, Wisper M
 
-Cooler Master - M2000 Platnium, Masterwatt Maker MIJ, V-Series Platinum
+Cooler Master - M2000 Platinum, Masterwatt Maker MIJ, V-Series Platinum
 
 Corsair - HX-i 2013, TX-m (all)
 
@@ -86,9 +86,9 @@ Phanteks - AMP GH Platinum, AMP V2, AMP V2 White, Revolt Pro
 
 Razer - Katana Chroma
 
-Silverstone - Hela R Platnium 850/1300/2050w, Hela Platnium 2050w, Nightjar ATX Platnium
+Silverstone - Hela R Platinum 850/1300/2050w, Hela Platinum 2050w, Nightjar ATX Platinum
 
-Super Flower - Leadex Gold SE, Leadex Platnium, Leadex Platinum SE, Leadex II, Leadex III Gold UP 650~850w
+Super Flower - Leadex Gold SE, Leadex Platinum, Leadex Platinum SE, Leadex II, Leadex III Gold UP 650~850w
 
 Thermaltake - Toughpower DPS G RGB 850~1250w, Toughpower iRGB Plus Titanium 1300w, Toughpower GF Plus, Toughpower GF3 Premium 1350w, Toughpower GF3 ARGB
 
@@ -100,11 +100,11 @@ Aerocool - Project 7
 
 Antec - Earthwatts Pro/Pro White, Signature Platinum/Titanium
 
-ASUS ROG - THOR Platnium 1200w, Strix Aura Gold/Gold
+ASUS ROG - THOR Platinum 1200w, Strix Aura Gold/Gold
 
 Chieftec - Atmos
 
-Cooler Master - V-Series Platnium V2
+Cooler Master - V-Series Platinum V2
 
 Cougar - GX-F Aurum
 
@@ -152,7 +152,7 @@ Cougar - GEX X2, LLC
 
 EVGA - G3
 
-FSP - Aurum Platnium, Vita GM
+FSP - Aurum Platinum, Vita GM
 
 Gamdias - Helios P1 OEM/SI, Helios P1A, Helios P2 750~1000w
 
@@ -176,11 +176,13 @@ SAMA - Black Diamond/V2, XM
 
 Silverstone - DA Gold 1650w, DA-R GM/GMA, ST-PT 550~850w, Viva Gold
 
+Thermaltake - Toughpower Grand RGB Gold/Sync ed. 650/750w, Toughpower PF1 650~850w
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
 
-Abko - CR Platnium, Tenergy Gold
+Abko - CR Platinum, Tenergy Gold
 
 Andyson - N, PX, R, TX
 
@@ -188,7 +190,7 @@ Antec - Neo Eco Gold Modular, GSK ATX 3.1
 
 Asus - TUF Gold/Bronze
 
-AZZA - PSAZ Platnium ATX 3.1/Gold ATX 3.1
+AZZA - PSAZ Platinum ATX 3.1/Gold ATX 3.1
 
 Be Quiet! - Pure Power 11 400~700w, Pure Power 11 CM, System Power 10 Gold
 
@@ -234,6 +236,8 @@ Silverstone - DA Gold 550/650/1000w, ET-G/ET-HG, SF-TI 650~850w
 
 Super Flower - Combat SG, Legion GX Pro, Leadex III Super Bronze Pro
 
+Thermaltake - Toughpower GF A3 Global
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -270,6 +274,8 @@ Silverstone - DA Gold 750w, ET-MG, Strider ST-PT 1000/1200w, ST-PTS 1200w
 
 Super Flower - Combat FG
 
+Thermaltake - Toughpower Gold, Toughpower Grand RGB Gold Sync ed. 850w, Toughpower Grand RGB Platinum, Toughpower GF A3 N. Amer./Hydrogena Blue
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -300,7 +306,9 @@ NZXT - C Series Bronze
 
 Silverstone - DA Gold 850w
 
-Super Flower - Platnium King 
+Super Flower - Platinum King 
+
+Thermaltake - Smart BM2 Ver. A, Smart DPS G Gold, TR2 Gold, Toughpower DPS G RGB Gold, Toughpower Grand Platinum, Toughpower GX1 Non-RGB, Toughpower GX2
 
 ### • C Tier
 
@@ -338,7 +346,7 @@ Gamdias - Helios M1 850w, M2, Kratos P1A, Kratos P1
 
 Gigabyte - PB 650w, GH, PB-US
 
-Inwin - A1 Plus, C Platnium, Force F1
+Inwin - A1 Plus, C Platinum, Force F1
 
 Montech - APX
 
