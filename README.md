@@ -364,6 +364,8 @@ Silverstone - Viva Bronze
 
 Super Flower - Leadex Silver
 
+Thermaltake - Smart BM3, Smart Pro RGB, Smart Gold OEM/SI, Toughpower GX1 RGB
+
 ### • C- Tier
 
 1st Player - DK Premium
