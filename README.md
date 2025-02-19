@@ -120,6 +120,8 @@ Gigabyte - Aorus AP-GM, UD-GM
 
 Huntkey - MVP Gold
 
+High Power - OEM Super Gold/ATX 3.1, Performance FS ATX 3.1, Super GD+
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -195,6 +197,8 @@ Enermax - Platimax D.F. 2013, Revolution X'T II
 Gamdias - Astrape P1
 
 Gigabyte - UD-GM PG5
+
+High Power - Astro Lite
 
 ### • C Tier
 
