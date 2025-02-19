@@ -34,6 +34,8 @@ FSP - Hydro PTM Pro ATX 3.0/3.1, PTM X Pro (all), Ti Pro
 
 Montech - Titan Gold
 
+NZXT - C Series Gold ATX 3.0/Gold ATX 3.1/Platinum 
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -71,6 +73,8 @@ High Power - Super GD ATX 3.0
 Lian Li - Edge (all)
 
 MSI - MEG Ai-T, MPG (all)
+
+NZXT - C Series V1/V2, E Series
 
 ### • A- Tier
 
@@ -241,6 +245,8 @@ Inwin - PB Gold, P Gold 1000/1250w
 Lian Li - ON 550w
 
 Montech - Century 850w, Gamma (all)
+
+NZXT - C Series Bronze 
 
 ### • C Tier
 
