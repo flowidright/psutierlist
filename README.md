@@ -353,4 +353,4 @@ Reddragon - RPGS Bronze (all)
 Thermaltake, fuck them
 
 ### •Z Tier
-ZTT, fuck them as well
+ZTT, fuck them as well.
