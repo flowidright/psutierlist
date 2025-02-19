@@ -86,6 +86,8 @@ Razer - Katana Chroma
 
 Silverstone - Hela R Platnium 850/1300/2050w, Hela Platnium 2050w, Nightjar ATX Platnium
 
+Super Flower - Leadex Gold SE, Leadex Platnium, Leadex Platinum SE, Leadex II, Leadex III Gold UP 650~850w
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
