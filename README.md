@@ -226,6 +226,8 @@ Segotep - PM ATX 3.1
 
 Silverstone - DA Gold 550/650/1000w, ET-G/ET-HG, SF-TI 650~850w
 
+Super Flower - Combat SG, Legion GX Pro, Leadex III Super Bronze Pro
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -260,6 +262,8 @@ Sharkoon - Rebel (all), SilentStorm Cool Zero
 
 Silverstone - DA Gold 750w, ET-MG, Strider ST-PT 1000/1200w, ST-PTS 1200w
 
+Super Flower - Combat FG
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -289,6 +293,8 @@ Montech - Century 850w, Gamma (all)
 NZXT - C Series Bronze 
 
 Silverstone - DA Gold 850w
+
+Super Flower - Platnium King 
 
 ### • C Tier
 
@@ -340,7 +346,9 @@ SAMA - Armor, GT, XF
 
 Sharkoon - WPM Gold Zero
 
-Silverstone - Viva Bronze 
+Silverstone - Viva Bronze
+
+Super Flower - Leadex Silver
 
 ### • C- Tier
 
