@@ -64,6 +64,8 @@ Huntkey - MVP Platinum
 
 High Power - Super GD ATX 3.0
 
+Lian Li - Edge (all)
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -168,6 +170,8 @@ Gamdias - Cyclops X1
 
 BEAUTIFUL - G-MA
 
+Lian Li - SP 750w
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -194,6 +198,8 @@ Inwin - PB Gold 650/750w
 
 Kolink - Enclave
 
+Lian Li - ON 750w
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -215,6 +221,8 @@ Gigabyte - UD-GM PG5
 High Power - Astro Lite
 
 Inwin - PB Gold, P Gold 1000/1250w
+
+Lian Li - ON 550w
 
 ### • C Tier
 
