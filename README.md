@@ -56,6 +56,10 @@ Fractal - Ion Platinum (all)
 
 FSP - Hydro G Pro 850/1000, G Pro ATX 3.0, GT Pro (all)
 
+Galax - Hall Of Fame (HOF)
+
+Gamdias - Helios P1 Retail, Helios P2 1300w
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -108,6 +112,10 @@ EVGA - G3
 
 FSP - Aurum Platnium, Vita GM
 
+Gamdias - Helios P1 OEM/SI, Helios P1A, Helios P2 750~1000w
+
+Gigabyte - Aorus AP-GM, UD-GM
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -142,6 +150,8 @@ EVGA - GE, GD R3/BC, FTW, G5, P+, P5
 
 FSP - Hydro G, Hydro X
 
+Gamdias - Cyclops X1
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -160,6 +170,10 @@ EVGA - G+ 650/750w, GT
 
 FSP - Dagger
 
+G.Skill - MB Gold
+
+Gigabyte - P-GM Rev.2
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -173,6 +187,10 @@ Corsair - CX-m 2017/2021
 Deepcool - PQ-G 750/850w
 
 Enermax - Platimax D.F. 2013, Revolution X'T II
+
+Gamdias - Astrape P1
+
+Gigabyte - UD-GM PG5
 
 ### • C Tier
 
@@ -188,7 +206,7 @@ Apevia - Prestige
 
 Be Quiet! - System Power U9
 
-Cooler Master - GX CM Storm Edition, MWE Bronze 650/650w Full Range/230v
+Cooler Master - GX CM Storm Edition, MWE Bronze 650w Full Range/230v
 
 Corsair - CV (Black Label) 650/750w, CX 2023, Vengeance Bronze
 
@@ -202,7 +220,13 @@ EVGA - B2, BP, BQ 500~700w
 
 Fractal - Anode Bronze
 
-FSP - Hydro GD, GE, M (Modular) Pro, MX, Pro, Hydro M85+
+FSP - Hydro GD, Hydro GE, Hydro M (Modular) Pro, Hydro MX, Hydro Pro, Hydro M85+
+
+Galax - Omega GLS
+
+Gamdias - Helios M1 850w, M2, Kratos P1A, Kratos P1
+
+Gigabyte - PB 650w, GH, PB-US
 
 ### • C- Tier
 
