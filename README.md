@@ -11,6 +11,8 @@
 
 **If you want a ranking on those, please refer to the SPL tier list, [available here](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335).**
 
+**If your PSU is not on either list, it is not considered mainstream enough to be on the list. If your PSU is *only* on the spreadsheet, it is a D/E/F tier unit.**
+
 **Please suggest any changes on GitHub.**
 
 ### • A+ Tier 
