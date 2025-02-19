@@ -242,6 +242,8 @@ Super Flower - Combat SG, Legion GX Pro, Leadex III Super Bronze Pro
 
 Thermaltake - Toughpower GF A3 Global
 
+Zalman - Acrux, Teramax II SE 750/850w
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -315,6 +317,8 @@ Silverstone - DA Gold 850w
 Super Flower - Platinum King 
 
 Thermaltake - Smart BM2 Ver. A, Smart DPS G Gold, TR2 Gold, Toughpower DPS G RGB Gold, Toughpower Grand Platinum, Toughpower GX1 Non-RGB, Toughpower GX2
+
+Zalman - EBT
 
 ### • C Tier
 
@@ -409,6 +413,8 @@ Reddragon - RPGS Bronze (all)
 Sharkoon - Cool Zero
 
 Xigmatek - Thor V3 (all)
+
+Zalman - TX
 
 ### •T Tier
 
