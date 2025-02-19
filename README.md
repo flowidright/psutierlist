@@ -62,6 +62,8 @@ Gamdias - Helios P1 Retail, Helios P2 1300w
 
 Huntkey - MVP Platinum 
 
+High Power - Super GD ATX 3.0
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
