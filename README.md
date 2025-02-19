@@ -92,6 +92,8 @@ Super Flower - Leadex Gold SE, Leadex Platinum, Leadex Platinum SE, Leadex II, L
 
 Thermaltake - Toughpower DPS G RGB 850~1250w, Toughpower iRGB Plus Titanium 1300w, Toughpower GF Plus, Toughpower GF3 Premium 1350w, Toughpower GF3 ARGB
 
+Vetroo - GV
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
