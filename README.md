@@ -180,6 +180,8 @@ Silverstone - DA Gold 1650w, DA-R GM/GMA, ST-PT 550~850w, Viva Gold
 
 Thermaltake - Toughpower Grand RGB Gold/Sync ed. 650/750w, Toughpower PF1 650~850w
 
+Xigmatek - Fury GD, Titan PT, Vector P
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -277,6 +279,8 @@ Silverstone - DA Gold 750w, ET-MG, Strider ST-PT 1000/1200w, ST-PTS 1200w
 Super Flower - Combat FG
 
 Thermaltake - Toughpower Gold, Toughpower Grand RGB Gold Sync ed. 850w, Toughpower Grand RGB Platinum, Toughpower GF A3 N. Amer./Hydrogena Blue
+
+Xigmatek - Harrier
 
 ### • C+ Tier 
 
