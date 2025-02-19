@@ -40,6 +40,8 @@ Silverstone - Hela R Platinum 1200w
 
 Super Flower - Leadex Titanium, Leadex VII (all)
 
+Thermaltake - Toughpower iRGB Plus Platinum, Toughpower iRGB Plus Titanium 1600w, Toughpower GF1 (all), Toughpower GF3 Premium 750~1200w, TF1
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -88,6 +90,8 @@ Silverstone - Hela R Platnium 850/1300/2050w, Hela Platnium 2050w, Nightjar ATX 
 
 Super Flower - Leadex Gold SE, Leadex Platnium, Leadex Platinum SE, Leadex II, Leadex III Gold UP 650~850w
 
+Thermaltake - Toughpower DPS G RGB 850~1250w, Toughpower iRGB Plus Titanium 1300w, Toughpower GF Plus, Toughpower GF3 Premium 1350w, Toughpower GF3 ARGB
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -121,6 +125,8 @@ Montech - Titan PLA
 Phanteks - AMP, AMP White, Revolt X
 
 Super Flower - Leadex Gold, Leadex III ARGB/HG/PRO ARGB, Leadex V (all), Leadex VI Platinum Pro
+
+Thermaltake - Toughpower iRGB Plus Gold, Toughpower PF3, Toughpower PF1 Premium 1050/1200w, Toughpower PF1 ARGB
 
 ### • B+ Tier
 
