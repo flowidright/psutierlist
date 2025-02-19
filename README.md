@@ -70,6 +70,8 @@ High Power - Super GD ATX 3.0
 
 Lian Li - Edge (all)
 
+MSI - MEG Ai-T, MPG (all)
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -140,6 +142,8 @@ Kolink - Continuum V1 850w
 
 Montech - Century G5 ATX 3.0
 
+MSI - A-GL 1000/1250w
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -181,6 +185,8 @@ BEAUTIFUL - G-MA
 Lian Li - SP 750w
 
 Montech - Century 550/650w
+
+MSI - A-GL 650~850w
 
 ### • B- Tier 
 
@@ -275,6 +281,8 @@ Gigabyte - PB 650w, GH, PB-US
 Inwin - A1 Plus, C Platnium, Force F1
 
 Montech - APX
+
+MSI - MAG A-BE/A-BN PCIE5/A-BN
 
 ### • C- Tier
 
