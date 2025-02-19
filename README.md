@@ -90,6 +90,8 @@ Fractal - Ion Gold
 
 FSP - Hydro G Pro 650/750w, Hydro PTM, Hydro PTM Pro ATX 2.x
 
+Kolink - Continuum V1 1500w
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
@@ -125,6 +127,8 @@ Huntkey - MVP Gold
 High Power - OEM Super Gold/ATX 3.1, Performance FS ATX 3.1, Super GD+
 
 Inwin - PF Gold
+
+Kolink - Continuum V1 850w
 
 ### • B Tier
 
@@ -185,6 +189,8 @@ G.Skill - MB Gold
 Gigabyte - P-GM Rev.2
 
 Inwin - PB Gold 650/750w
+
+Kolink - Enclave
 
 ### • C+ Tier 
 
@@ -271,6 +277,8 @@ Enermax - MarbleBron, RebleBron (all)
 EVGA - B3, BR
 
 FSP - Raider II
+
+Kolink - Classic Power, Continuum V1 1050/1200w
 
 ### •T Tier
 
