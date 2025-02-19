@@ -296,6 +296,8 @@ Montech - APX
 
 MSI - MAG A-BE/A-BN PCIE5/A-BN
 
+PowerSpec - PS X GFM
+
 ### • C- Tier
 
 1st Player - DK Premium
