@@ -106,6 +106,8 @@ Kolink - Continuum V1 1500w
 
 Montech - Titan PLA
 
+Phanteks - AMP, AMP White, Revolt X
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
