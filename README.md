@@ -36,6 +36,8 @@ Montech - Titan Gold
 
 NZXT - C Series Gold ATX 3.0/Gold ATX 3.1/Platinum 
 
+Seasonic - Prime Titanium, Prime Ultra Platnium 850/1000w, Prime Ultra Titanium, Noctua (TX), Titanium (TX) 1600w, Titanium ATX 3.0 (TX)
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -80,6 +82,8 @@ Phanteks - AMP GH Platinum, AMP V2, AMP V2 White, Revolt Pro
 
 Razer - Katana Chroma
 
+Seasonic - Focus Gold, Focus Plus Gold, Focus Plus Gold, Focus GM, Focus GX/White, Focus PX, Prime Gold, Prine Platinum, Prime Ultra Gold, Prime Ultra Platnium 550~750w, Prime Gold (2019) 650/750w, Prime Platinum (2019) 650/750w, Prime Platinum (2023) 1600w, Prine Titanium (2023) 1300w, Prime AirTouch, Prime SnowSilent 550/650w 
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -111,6 +115,8 @@ Kolink - Continuum V1 1500w
 Montech - Titan PLA
 
 Phanteks - AMP, AMP White, Revolt X
+
+Seasonic - Focus GX V4, Focus Gold (2019) 850/1000w, Prime Platinum (2019) 850~1300w, Prime Titanium (2019), Prime SnowSilent 850w, Prime Fanless (all)
 
 ### • B+ Tier
 
@@ -238,7 +244,9 @@ Kolink - Enclave
 
 Lian Li - ON 750w
 
-Forza Titanium 
+SAMA - Forza Titanium 
+
+Seasonic - G12 GC (China Only), Core (all)
 
 ### • C+ Tier 
 
@@ -267,6 +275,8 @@ Lian Li - ON 550w
 Montech - Century 850w, Gamma (all)
 
 NZXT - C Series Bronze 
+
+Seasonic - G12 GC (Global), G12 GM
 
 ### • C Tier
 
@@ -315,6 +325,8 @@ PowerSpec - PS X GFM
 Raidmax - Cobra (all)
 
 SAMA - Armor, GT, XF
+
+Seasonic - B12 BC
 
 ### • C- Tier
 
