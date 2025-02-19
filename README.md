@@ -154,6 +154,10 @@ Montech - Century G5 ATX 3.0
 
 MSI - A-GL 1000/1250w
 
+Rosewill - Quark, SMG
+
+SAMA - Black Diamond/V2, XM
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -204,6 +208,8 @@ Raidmax - Monster
 
 Reddragon - Master RPGS ATX 3.1, PSU 014, PSU 015
 
+Rosewill - Tokamak
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -231,6 +237,8 @@ Inwin - PB Gold 650/750w
 Kolink - Enclave
 
 Lian Li - ON 750w
+
+Forza Titanium 
 
 ### • C+ Tier 
 
@@ -305,6 +313,8 @@ MSI - MAG A-BE/A-BN PCIE5/A-BN
 PowerSpec - PS X GFM
 
 Raidmax - Cobra (all)
+
+SAMA - Armor, GT, XF
 
 ### • C- Tier
 
