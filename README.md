@@ -76,6 +76,8 @@ MSI - MEG Ai-T, MPG (all)
 
 NZXT - C Series V1/V2, E Series
 
+Phanteks - AMP GH Platinum, AMP V2, AMP V2 White, Revolt Pro
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -193,6 +195,8 @@ Lian Li - SP 750w
 Montech - Century 550/650w
 
 MSI - A-GL 650~850w
+
+Phanteks - AMP GH
 
 ### • B- Tier 
 
