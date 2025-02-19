@@ -78,6 +78,8 @@ NZXT - C Series V1/V2, E Series
 
 Phanteks - AMP GH Platinum, AMP V2, AMP V2 White, Revolt Pro
 
+Razer - Katana Chroma
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -198,6 +200,10 @@ MSI - A-GL 650~850w
 
 Phanteks - AMP GH
 
+Raidmax - Monster 
+
+Reddragon - Master RPGS ATX 3.1, PSU 014, PSU 015
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -298,6 +304,8 @@ MSI - MAG A-BE/A-BN PCIE5/A-BN
 
 PowerSpec - PS X GFM
 
+Raidmax - Cobra (all)
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -327,6 +335,8 @@ FSP - Raider II
 Kolink - Classic Power, Continuum V1 1050/1200w
 
 Montech - Alpha X
+
+Reddragon - RPGS Bronze (all)
 
 ### •T Tier
 
