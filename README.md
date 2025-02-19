@@ -60,6 +60,8 @@ Galax - Hall Of Fame (HOF)
 
 Gamdias - Helios P1 Retail, Helios P2 1300w
 
+Huntkey - MVP Platinum 
+
 ### • A- Tier
 
 1st Player - NDGP Gold/Platinum 
@@ -115,6 +117,8 @@ FSP - Aurum Platnium, Vita GM
 Gamdias - Helios P1 OEM/SI, Helios P1A, Helios P2 750~1000w
 
 Gigabyte - Aorus AP-GM, UD-GM
+
+Huntkey - MVP Gold
 
 ### • B Tier
 
