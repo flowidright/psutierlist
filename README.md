@@ -38,6 +38,8 @@ NZXT - C Series Gold ATX 3.0/Gold ATX 3.1/Platinum
 
 Silverstone - Hela R Platinum 1200w
 
+Super Flower - Leadex Titanium, Leadex VII (all)
+
 ### • A Tier
 
 Antec - Neo Eco Gold Modular ATX 3.0, High Current Gamer (all)
@@ -218,6 +220,8 @@ Rosewill - Tokamak
 
 Segotep - PM ATX 3.1
 
+Silverstone - DA Gold 550/650/1000w, ET-G/ET-HG, SF-TI 650~850w
+
 ### • B- Tier 
 
 Adata XPG - Kyber
@@ -250,6 +254,8 @@ Forza Titanium
 
 Sharkoon - Rebel (all), SilentStorm Cool Zero
 
+Silverstone - DA Gold 750w, ET-MG, Strider ST-PT 1000/1200w, ST-PTS 1200w
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -277,6 +283,8 @@ Lian Li - ON 550w
 Montech - Century 850w, Gamma (all)
 
 NZXT - C Series Bronze 
+
+Silverstone - DA Gold 850w
 
 ### • C Tier
 
@@ -327,6 +335,8 @@ Raidmax - Cobra (all)
 SAMA - Armor, GT, XF
 
 Sharkoon - WPM Gold Zero
+
+Silverstone - Viva Bronze 
 
 ### • C- Tier
 
