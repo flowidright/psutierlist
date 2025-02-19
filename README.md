@@ -372,6 +372,8 @@ Super Flower - Leadex Silver
 
 Thermaltake - Smart BM3, Smart Pro RGB, Smart Gold OEM/SI, Toughpower GX1 RGB
 
+Xigmatek - Hydra M, Thor V2 T-M
+
 ### • C- Tier
 
 1st Player - DK Premium
@@ -405,6 +407,8 @@ Montech - Alpha X
 Reddragon - RPGS Bronze (all)
 
 Sharkoon - Cool Zero
+
+Xigmatek - Thor V3 (all)
 
 ### •T Tier
 
