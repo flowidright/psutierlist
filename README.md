@@ -701,28 +701,3 @@ Thermaltake, fuck them
 
 ### •Z Tier
 ZTT, fuck them as well.
-
-Deepcool - PL-D
-
-Endorphy - Supremo Gold FM5
-
-Enermax - MarbleBron, RebleBron (all)
-
-EVGA - B3, BR
-
-FSP - Raider II
-
-Kolink - Classic Power, Continuum V1 1050/1200w
-
-Montech - Alpha X
-
-Reddragon - RPGS Bronze (all)
-
-Sharkoon - Cool Zero
-
-### •T Tier
-
-Thermaltake, fuck them
-
-### •Z Tier
-ZTT, fuck them as well.
