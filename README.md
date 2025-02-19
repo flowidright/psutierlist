@@ -124,6 +124,8 @@ Huntkey - MVP Gold
 
 High Power - OEM Super Gold/ATX 3.1, Performance FS ATX 3.1, Super GD+
 
+Inwin - PF Gold
+
 ### • B Tier
 
 1st Player - Armour Gold, Steampunk 
@@ -182,6 +184,8 @@ G.Skill - MB Gold
 
 Gigabyte - P-GM Rev.2
 
+Inwin - PB Gold 650/750w
+
 ### • C+ Tier 
 
 Adata XPG - Pylon
@@ -201,6 +205,8 @@ Gamdias - Astrape P1
 Gigabyte - UD-GM PG5
 
 High Power - Astro Lite
+
+Inwin - PB Gold, P Gold 1000/1250w
 
 ### • C Tier
 
@@ -237,6 +243,8 @@ Galax - Omega GLS
 Gamdias - Helios M1 850w, M2, Kratos P1A, Kratos P1
 
 Gigabyte - PB 650w, GH, PB-US
+
+Inwin - A1 Plus, C Platnium, Force F1
 
 ### • C- Tier
 
