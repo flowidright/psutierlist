@@ -166,6 +166,8 @@ FSP - Hydro G, Hydro X
 
 Gamdias - Cyclops X1
 
+BEAUTIFUL - G-MA
+
 ### • B- Tier 
 
 Adata XPG - Kyber
