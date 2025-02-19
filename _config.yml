@@ -1,5 +1,5 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [CompactedSPL]
-description: [A Compacted Version of SPL's PSU Tier List made into a website for everyone to enjoy.]
+title: [Flow's PSU Tier List]
+description: [A PSU Tier List made by Flow, with no affiliate links for everyone to enjoy.]
