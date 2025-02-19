@@ -120,6 +120,8 @@ Montech - Titan PLA
 
 Phanteks - AMP, AMP White, Revolt X
 
+Super Flower - Leadex Gold, Leadex III ARGB/HG/PRO ARGB, Leadex V (all), Leadex VI Platinum Pro
+
 ### • B+ Tier
 
 Antec - Neo Eco Gold OEM
