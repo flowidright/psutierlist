@@ -42,7 +42,7 @@ Silverstone - Hela R Platinum 1200w
 
 Super Flower - Leadex Titanium, Leadex VII (all)
 
-Thermaltake - Toughpower iRGB Plus Platinum, Toughpower iRGB Plus Titanium 1600w, Toughpower GF1 (all), Toughpower GF3 Premium 750~1200w, TF1
+Thermaltake - Toughpower iRGB Plus Platinum, Toughpower iRGB Plus Titanium 1600w, Toughpower GF1 (all EXCEPT GF1 2024), Toughpower GF3 Premium 750~1200w, TF1
 
 ### • A Tier
 
